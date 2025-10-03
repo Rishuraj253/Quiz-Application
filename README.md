@@ -30,4 +30,4 @@ It supports **difficulty selection (Easy / Medium / Hard / All)**, a **timer**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/interactive-quiz-app.git
+git clone https://github.com/Rishuraj253/Quiz-Application.git
